@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Hi there My Name is Amir
+  🌱 I’m currently learning Flutter Frameworks
+- 👯 I’m looking to collaborate on ...
 <!--
 **Amirzzd/Amirzzd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
