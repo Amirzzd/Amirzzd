@@ -1,5 +1,5 @@
 ## Hi  👋  My Name is Amir
-- 🌱 I’m currently learning Flutter Frameworks
+- 🌱 I’m Flutter developer
 - 🚀 Currently, I'm pursuing a degree in Software Engineering
 <!--
 **Amirzzd/Amirzzd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
